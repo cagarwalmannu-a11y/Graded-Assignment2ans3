@@ -1,0 +1,6 @@
+class EnrollmentRepository:
+    def get_enrollment(self, enrollment_id):
+        pass
+
+    def create_enrollment(self, enrollment):
+        pass
